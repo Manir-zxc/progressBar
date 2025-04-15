@@ -1,0 +1,40 @@
+#progressBar {
+ background-color: yellow;
+ width: 90%;
+ height:35px;
+ display: flex;
+ align-items: center;
+ align-items: center;
+ margin-left: 25px;
+ margin-right: 25px;
+ border-radius: 20px;
+ margin-bottom: 50px;
+}
+
+#progressFill {
+ background-color: green;
+ width: 10%;
+ height:35px;
+ border-radius: 20px;
+ 
+}
+
+.item1{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 60px;
+  margin-bottom: 20px;
+}
+
+.chkbox{
+  width: 30px;
+  height: 30px;
+  background-color: pink;
+  border-radius: 50px;
+  margin-right: 20px;
+  
+}
+.BgChk{
+  background-color: Blue;
+}
